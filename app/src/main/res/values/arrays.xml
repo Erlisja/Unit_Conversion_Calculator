@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversion_units" >
+        <item>Choose a unit to convert </item>
+        <item>Weight</item>
+            <item>Distance</item>
+            <item>Temperature</item>
+            <!-- Add more items as needed -->
+        </string-array>
+
+
+</resources>

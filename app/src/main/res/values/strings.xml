@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Unit Conversion Calculator</string>
+    <string name="textViewHint">Choose a Unit you want to convert</string>
+</resources>
